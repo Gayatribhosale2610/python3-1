@@ -76,3 +76,26 @@ Ordered
 
 ## CONTACT
 <a href="mailto:gauravpatil97886@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=50 height=50/></a>
+
+
+--------------------
+Python Basics
+-----------
+
+Beginner’s Python Cheat Sheet - Lists
+--------------------------------
+    
+        Focuses on lists: how to build and modify a list, access elements from a list, and loop through the values in a list. Also covers numerical lists, list comprehensions, tuples, and more.
+    Beginner’s Python Cheat Sheet - Dictionaries
+        Focuses on dictionaries: how to build and modify a dictionary, access the information in a dictionary, and loop through dictionaries in a variety of ways. Includes sections on nesting lists and dictionaries, using dictionary comprehensions, and more.
+    Beginner’s Python Cheat Sheet - If Statements and While Loops
+        Focuses on if statements and while loops: how to write conditional tests with strings and numerical data, how to write simple and complex if statements, and how to accept user input. Also covers a variety of approaches to using while loops.
+    Beginner’s Python Cheat Sheet - Functions
+        Focuses on functions: how to define a function and how to pass information to a function. Covers positional and keyword arguments, return values, passing lists, using modules, and more
+    Beginner’s Python Cheat Sheet - Classes
+        Focuses on classes: how to define and use a class. Covers attributes and methods, inheritance and importing, and more.
+    Beginner’s Python Cheat Sheet - Files and Exceptions
+        Focuses on working with files, and using exceptions to handle errors that might arise as your programs run. Covers reading and writing to files, try-except-else blocks, and storing data using the json module.
+    Beginner’s Python Cheat Sheet - Testing Your Code
+        Focuses on unit tests and test cases. How to test a function, and how to test a class.
+
